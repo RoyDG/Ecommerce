@@ -91,24 +91,6 @@ Follow our docs for [Adding a new Commerce Provider](framework/commerce/new-prov
 
 If you succeeded building a provider, submit a PR with a valid demo and we'll review it asap.
 
-## Contribute
-
-Our commitment to Open Source can be found [here](https://vercel.com/oss).
-
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device.
-2. Create a new branch `git checkout -b MY_BRANCH_NAME`
-3. Install yarn: `npm install -g yarn`
-4. Install the dependencies: `yarn`
-5. Duplicate `.env.template` and rename it to `.env.local`
-6. Add proper store values to `.env.local`
-7. Run `yarn dev` to build and watch for code changes
-
-## Work in progress
-
-We're using Github Projects to keep track of issues in progress and todo's. Here is our [Board](https://github.com/vercel/commerce/projects/1)
-
-People actively working on this project: @okbel & @lfades.
-
 ## Troubleshoot
 
 <details>
